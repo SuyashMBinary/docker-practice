@@ -1,0 +1,15 @@
+{
+  "name": "worker",
+  "version": "0.1.0",
+  "description": "Sample worker app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Suyash Mohan",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}

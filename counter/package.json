@@ -1,0 +1,16 @@
+{
+  "name": "counter",
+  "version": "0.1.0",
+  "description": "Sample counter app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Suyash Mohan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "redis": "^2.8.0"
+  }
+}
